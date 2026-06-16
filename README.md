@@ -1,7 +1,7 @@
 ## Hello Welcome To My Page ✨
 A Data Engineering Enthusiast Who’s Committed to Growth and Improvement.
 
-Passionate about working with data, databases, Python, and SQL to build useful and reliable solutions. I’m also interested in frontend development and UI/UX design, with a focus on creating modern and user friendly digital experiences.
+Interested about working with data, databases, Python, and SQL to build useful and reliable solutions. I’m also interested in frontend development and UI/UX design, with a focus on creating modern and user friendly digital experiences.
 
 ### Get In Touch With Me
 - [LinkedIn](https://www.linkedin.com/in/erlangga-mahardika)
